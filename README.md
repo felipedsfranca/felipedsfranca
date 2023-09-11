@@ -1,11 +1,11 @@
-# Hi there! I'm Felipe França :grin:
+# Hi there!
 
 ## A few things about me:
 
-- :chart_with_upwards_trend: I'm currently working as a People Analytics Analyst at Dasa;
-- :metal: I've been an HR professional for the last 6 years of my career;
-- :star2: I simply love developing solutions and hacks while exploring new technologies;
-- :dart: I'm focusing on learning more about Python, Data Science and Statistics.
+- :chart_with_upwards_trend: I'm currently working as a Senior People Analytics Analyst at Dasa
+- :metal: I've been an HR professional for the last 6 years of my career
+- :star2: I simply love developing solutions and hacks while exploring new technologies
+- :dart: I'm the founder of huDATA.com.br — a collaborative platform about data and people
 
 ## Here's most of the tools I work with:
 
